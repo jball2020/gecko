@@ -1,6 +1,6 @@
 # Gecko
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+Gecko is a task and todo manager. The goal of this project is to create something that is visually appealing, extremely functional, and easy to use. Often, managing tasks is cumbersome or the tools you are using don't have the features you are looking for (or don't fit your style). This app attempts to solve that.
 
 ## Development server
 
